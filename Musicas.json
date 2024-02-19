@@ -2,10 +2,10 @@
   "songs": [
     {
       "bg": "#c9bea28f",
-      "artist": "sickick",
-      "songName": "talking to the moon (bruno mars remix)",
+      "artist": "rafael",
+      "songName": "teste",
       "files": {
-        "song": "https://github.com/Cris-ADS/siteMusicas/raw/main/musica1.mp3",
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/song.mp3",
         "cover": "https://i.ibb.co/xHsqrD0/Fundo-Niver-Gi-3.png"
       }
     },
@@ -14,7 +14,7 @@
       "artist": "bless you",
       "songName": "driving",
       "files": {
-        "song": "https://github.com/Cris-ADS/siteMusicas/raw/main/musica2.mp3",
+        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/song.mp3",
         "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/img.jpg"
       }
     },
