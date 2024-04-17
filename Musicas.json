@@ -2,7 +2,7 @@
   "songs": [
     {
       "bg": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/img.jpg",
-      "artist": "rafaela",
+      "artist": "rafael",
       "songName": "teste",
       "files": {
         "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musica1.mp3",
@@ -66,6 +66,15 @@
     {
       "bg": "#e5e7e9",
       "artist": "arizona zervas",
+      "songName": "no i in team",
+      "files": {
+      "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#e5e7e9",
+      "artist": "Teste9",
       "songName": "no i in team",
       "files": {
       "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
