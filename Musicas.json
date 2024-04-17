@@ -1,8 +1,8 @@
 {
   "songs": [
     {
-      "bg": "#F0F0F0",
-      "artist": "rafael",
+      "bg": "#0896eba1",
+      "artist": "rafaelll",
       "songName": "teste",
       "files": {
         "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musica1.mp3",
