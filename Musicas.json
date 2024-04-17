@@ -1,8 +1,8 @@
 {
   "songs": [
     {
-      "bg": "https://i.ibb.co/xHsqrD0/Fundo-Niver-Gi-3.png",
-      "artist": "rafael",
+      "bg": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/img.jpg",
+      "artist": "rafaela",
       "songName": "teste",
       "files": {
         "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musica1.mp3",
