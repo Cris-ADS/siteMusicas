@@ -5,7 +5,7 @@
       "artist": "rafael",
       "songName": "teste",
       "files": {
-        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musica1.mp3",
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica1.mp3",
         "cover": "https://i.ibb.co/xHsqrD0/Fundo-Niver-Gi-3.png"
       }
     },
@@ -14,7 +14,7 @@
       "artist": "bless you",
       "songName": "driving",
       "files": {
-        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/song.mp3",
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica2.mp3",
         "cover": "https://i.scdn.co/image/ab67616d0000b27375d5d9084ef075899f0285a6"
       }
     },
@@ -23,7 +23,7 @@
       "artist": "lil uzi vert",
       "songName": "demon high",
       "files": {
-       "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/song.mp3",
+       "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica3.mp3",
        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/img.jpg"
       }
     },
@@ -32,7 +32,7 @@
       "artist": "travis scott",
       "songName": "a man",
       "files": {
-      "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/song.mp3",
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica4.mp3",
       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/img.jpg"
       }
     },
@@ -41,7 +41,7 @@
       "artist": "randall",
       "songName": "waharan",
       "files": {
-      "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/song.mp3",
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica5.mp3",
       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/img.jpg"
       }
     },
