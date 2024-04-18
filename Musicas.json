@@ -1,7 +1,7 @@
 {
   "songs": [
     {
-      "bg": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/img.jpg",
+      "bg": "#c9bea28f",
       "artist": "rafael",
       "songName": "teste",
       "files": {
