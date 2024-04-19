@@ -485,6 +485,15 @@
       "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica54.mp3",
       "cover": "https://i.scdn.co/image/ab67616d0000b27365febabb92bc9e047a04cdf5"
       }
+    },
+    {
+      "bg": "#44c16fb5",
+      "artist": "Spina",
+      "songName": "Halo Cover",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/Gi.mp3",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27365febabb92bc9e047a04cdf5"
+      }
     }
   ]
 }
