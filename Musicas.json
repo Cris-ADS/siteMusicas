@@ -2,6 +2,78 @@
   "songs": [
     {
       "bg": "#c9bea28f",
+      "artist": "RÜFÜS DU SOL",
+      "songName": "Innerbloom - Radio Edit",
+      "files": {
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica1.mp3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27375d5d9084ef075899f0285a6"
+      }
+    },
+    {
+      "bg": "#0896eba1",
+      "artist": "The Temper Trap, Vintage Culture, Lazy Bear",
+      "songName": "Sweet Disposition (Vintage Culture & Lazy Bear Remix)",
+      "files": {
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica2.mp3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2736617fe34f884726bde95b341"
+      }
+    },
+    {
+      "bg": "#ebbe03",
+      "artist": "lil uzi vert",
+      "songName": "demon high",
+      "files": {
+       "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica3.mp3",
+       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/img.jpg"
+      }
+    },
+    {
+      "bg": "#ffc382",
+      "artist": "travis scott",
+      "songName": "a man",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica4.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/img.jpg"
+      }
+    },
+    {
+      "bg": "#ffcbdc",
+      "artist": "randall",
+      "songName": "waharan",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica5.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/img.jpg"
+      }
+    },
+    {
+      "bg": "#44c16fb5",
+      "artist": "tritonal",
+      "songName": "diamonds (feat. rose darling)",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica6.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
+      }
+    },
+    {
+      "bg": "#ff4545",
+      "artist": "the weeknd",
+      "songName": "blinding lights",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica7.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#e5e7e9",
+      "artist": "arizona zervas",
+      "songName": "no i in team",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica8.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
       "artist": "rafael",
       "songName": "teste",
       "files": {
@@ -50,7 +122,7 @@
       "artist": "tritonal",
       "songName": "diamonds (feat. rose darling)",
       "files": {
-      "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/song.mp3",
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica6.mp3",
       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
       }
     },
@@ -59,7 +131,7 @@
       "artist": "the weeknd",
       "songName": "blinding lights",
       "files": {
-      "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/song.mp3",
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica7.mp3",
       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
       }
     },
@@ -68,16 +140,367 @@
       "artist": "arizona zervas",
       "songName": "no i in team",
       "files": {
-      "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica8.mp3",
       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
       }
     },
     {
+      "bg": "#c9bea28f",
+      "artist": "rafael",
+      "songName": "teste",
+      "files": {
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica1.mp3",
+        "cover": "https://i.ibb.co/xHsqrD0/Fundo-Niver-Gi-3.png"
+      }
+    },
+    {
+      "bg": "#0896eba1",
+      "artist": "bless you",
+      "songName": "driving",
+      "files": {
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica2.mp3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27375d5d9084ef075899f0285a6"
+      }
+    },
+    {
+      "bg": "#ebbe03",
+      "artist": "lil uzi vert",
+      "songName": "demon high",
+      "files": {
+       "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica3.mp3",
+       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/img.jpg"
+      }
+    },
+    {
+      "bg": "#ffc382",
+      "artist": "travis scott",
+      "songName": "a man",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica4.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/img.jpg"
+      }
+    },
+    {
+      "bg": "#ffcbdc",
+      "artist": "randall",
+      "songName": "waharan",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica5.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/img.jpg"
+      }
+    },
+    {
+      "bg": "#44c16fb5",
+      "artist": "tritonal",
+      "songName": "diamonds (feat. rose darling)",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica6.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
+      }
+    },
+    {
+      "bg": "#ff4545",
+      "artist": "the weeknd",
+      "songName": "blinding lights",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica7.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
       "bg": "#e5e7e9",
-      "artist": "Teste9",
+      "artist": "arizona zervas",
       "songName": "no i in team",
       "files": {
-      "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/song.mp3",
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica8.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "rafael",
+      "songName": "teste",
+      "files": {
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica1.mp3",
+        "cover": "https://i.ibb.co/xHsqrD0/Fundo-Niver-Gi-3.png"
+      }
+    },
+    {
+      "bg": "#0896eba1",
+      "artist": "bless you",
+      "songName": "driving",
+      "files": {
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica2.mp3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27375d5d9084ef075899f0285a6"
+      }
+    },
+    {
+      "bg": "#ebbe03",
+      "artist": "lil uzi vert",
+      "songName": "demon high",
+      "files": {
+       "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica3.mp3",
+       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/img.jpg"
+      }
+    },
+    {
+      "bg": "#ffc382",
+      "artist": "travis scott",
+      "songName": "a man",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica4.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/img.jpg"
+      }
+    },
+    {
+      "bg": "#ffcbdc",
+      "artist": "randall",
+      "songName": "waharan",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica5.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/img.jpg"
+      }
+    },
+    {
+      "bg": "#44c16fb5",
+      "artist": "tritonal",
+      "songName": "diamonds (feat. rose darling)",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica6.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
+      }
+    },
+    {
+      "bg": "#ff4545",
+      "artist": "the weeknd",
+      "songName": "blinding lights",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica7.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#e5e7e9",
+      "artist": "arizona zervas",
+      "songName": "no i in team",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica8.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "rafael",
+      "songName": "teste",
+      "files": {
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica1.mp3",
+        "cover": "https://i.ibb.co/xHsqrD0/Fundo-Niver-Gi-3.png"
+      }
+    },
+    {
+      "bg": "#0896eba1",
+      "artist": "bless you",
+      "songName": "driving",
+      "files": {
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica2.mp3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27375d5d9084ef075899f0285a6"
+      }
+    },
+    {
+      "bg": "#ebbe03",
+      "artist": "lil uzi vert",
+      "songName": "demon high",
+      "files": {
+       "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica3.mp3",
+       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/img.jpg"
+      }
+    },
+    {
+      "bg": "#ffc382",
+      "artist": "travis scott",
+      "songName": "a man",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica4.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/img.jpg"
+      }
+    },
+    {
+      "bg": "#ffcbdc",
+      "artist": "randall",
+      "songName": "waharan",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica5.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/img.jpg"
+      }
+    },
+    {
+      "bg": "#44c16fb5",
+      "artist": "tritonal",
+      "songName": "diamonds (feat. rose darling)",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica6.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
+      }
+    },
+    {
+      "bg": "#ff4545",
+      "artist": "the weeknd",
+      "songName": "blinding lights",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica7.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#e5e7e9",
+      "artist": "arizona zervas",
+      "songName": "no i in team",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica8.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "rafael",
+      "songName": "teste",
+      "files": {
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica1.mp3",
+        "cover": "https://i.ibb.co/xHsqrD0/Fundo-Niver-Gi-3.png"
+      }
+    },
+    {
+      "bg": "#0896eba1",
+      "artist": "bless you",
+      "songName": "driving",
+      "files": {
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica2.mp3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27375d5d9084ef075899f0285a6"
+      }
+    },
+    {
+      "bg": "#ebbe03",
+      "artist": "lil uzi vert",
+      "songName": "demon high",
+      "files": {
+       "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica3.mp3",
+       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/img.jpg"
+      }
+    },
+    {
+      "bg": "#ffc382",
+      "artist": "travis scott",
+      "songName": "a man",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica4.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/img.jpg"
+      }
+    },
+    {
+      "bg": "#ffcbdc",
+      "artist": "randall",
+      "songName": "waharan",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica5.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/img.jpg"
+      }
+    },
+    {
+      "bg": "#44c16fb5",
+      "artist": "tritonal",
+      "songName": "diamonds (feat. rose darling)",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica6.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
+      }
+    },
+    {
+      "bg": "#ff4545",
+      "artist": "the weeknd",
+      "songName": "blinding lights",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica7.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#e5e7e9",
+      "artist": "arizona zervas",
+      "songName": "no i in team",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica8.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "rafael",
+      "songName": "teste",
+      "files": {
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica1.mp3",
+        "cover": "https://i.ibb.co/xHsqrD0/Fundo-Niver-Gi-3.png"
+      }
+    },
+    {
+      "bg": "#0896eba1",
+      "artist": "bless you",
+      "songName": "driving",
+      "files": {
+        "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica2.mp3",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27375d5d9084ef075899f0285a6"
+      }
+    },
+    {
+      "bg": "#ebbe03",
+      "artist": "lil uzi vert",
+      "songName": "demon high",
+      "files": {
+       "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica3.mp3",
+       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/img.jpg"
+      }
+    },
+    {
+      "bg": "#ffc382",
+      "artist": "travis scott",
+      "songName": "a man",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica4.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/img.jpg"
+      }
+    },
+    {
+      "bg": "#ffcbdc",
+      "artist": "randall",
+      "songName": "waharan",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica5.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/img.jpg"
+      }
+    },
+    {
+      "bg": "#44c16fb5",
+      "artist": "tritonal",
+      "songName": "diamonds (feat. rose darling)",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica6.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
+      }
+    },
+    {
+      "bg": "#ff4545",
+      "artist": "the weeknd",
+      "songName": "blinding lights",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica7.mp3",
+      "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#e5e7e9",
+      "artist": "arizona zervas",
+      "songName": "no i in team",
+      "files": {
+      "song": "https://raw.githubusercontent.com/Cris-ADS/siteMusicas/main/musicas/musica8.mp3",
       "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
       }
     }
